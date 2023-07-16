@@ -1,0 +1,28 @@
+OnActionExecuting: Index - Logged at 10-01-2023 23:10:36
+OnActionExecuted: Index - Logged at 10-01-2023 23:10:37
+OnResultExecuting: Logged at 10-01-2023 23:10:37
+OnResultExecuted: Logged at 10-01-2023 23:10:37
+OnActionExecuting: Index - Logged at 10-01-2023 23:10:49
+OnActionExecuted: Index - Logged at 10-01-2023 23:10:49
+OnResultExecuting: Logged at 10-01-2023 23:10:49
+OnResultExecuted: Logged at 10-01-2023 23:10:49
+OnActionExecuting: Index - Logged at 10-01-2023 23:11:15
+OnActionExecuted: Index - Logged at 10-01-2023 23:11:15
+OnResultExecuting: Logged at 10-01-2023 23:11:15
+OnResultExecuted: Logged at 10-01-2023 23:11:15
+OnActionExecuting: Index - Logged at 11-01-2023 00:33:10
+OnActionExecuted: Index - Logged at 11-01-2023 00:33:10
+OnResultExecuting: Logged at 11-01-2023 00:33:10
+OnResultExecuted: Logged at 11-01-2023 00:33:10
+OnActionExecuting: Index - Logged at 11-01-2023 06:37:56
+OnActionExecuted: Index - Logged at 11-01-2023 06:37:56
+OnResultExecuting: Logged at 11-01-2023 06:37:56
+OnResultExecuted: Logged at 11-01-2023 06:37:57
+OnActionExecuting: Index - Logged at 11-01-2023 06:38:12
+OnActionExecuted: Index - Logged at 11-01-2023 06:38:12
+OnResultExecuting: Logged at 11-01-2023 06:38:12
+OnResultExecuted: Logged at 11-01-2023 06:38:12
+OnActionExecuting: Index - Logged at 11-01-2023 06:38:38
+OnActionExecuted: Index - Logged at 11-01-2023 06:38:38
+OnResultExecuting: Logged at 11-01-2023 06:38:38
+OnResultExecuted: Logged at 11-01-2023 06:38:38

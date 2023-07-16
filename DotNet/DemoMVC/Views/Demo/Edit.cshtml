@@ -1,0 +1,43 @@
+﻿@model DemoMVC.Models.Emp
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+   <form action="/Demo/Edit" method="post">
+       <center>
+           <table>
+               <tr>
+                   <td>No</td>
+                   <td>
+                       @Model.No <br />
+                       <input type="hidden" name="No" value="@Model.No" />
+                   </td>
+               </tr>
+               <tr>
+                   <td>Name</td>
+                   <td>
+                       @Model.Name <br />
+                       <input type="text" name="Name" value="@Model.Name" />
+                   </td>
+               </tr>
+               <tr>
+                   <td>Address</td>
+                   <td>
+                       @Model.Address <br />
+                   <input type="text" name="Address" value="@Model.Address" />
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <input type="submit" class="btn btn-outline-dark" name="btn" value="Update" />
+                   </td>
+               </tr>
+           </table>
+       </center>
+   </form>
+</body>
+</html>
